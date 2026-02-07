@@ -16,22 +16,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Achievements](#achievements)
-- [Performance](#performance)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## 🎯 About
 
 This is my professional portfolio website built from scratch using **HTML5**, **CSS3**, and **JavaScript**. The site showcases my journey as a Frontend Developer, highlighting my technical skills, internship experience at **Vistaar Financial Services** (30% efficiency boost), and completion of **Deloitte Australia's Technology Job Simulation** on Forage.
@@ -66,16 +50,6 @@ This is my professional portfolio website built from scratch using **HTML5**, **
 - **Smooth Animations**: Fade-in, slide-in, and transform animations
 - **Mobile-First Approach**: Touch-optimized for mobile devices
 - **Custom Scroll Progress Bar**: Visual feedback while scrolling
-
-### 🛠️ Advanced Features
-- **Performance Monitoring**: Console-based performance metrics
-- **Notification System**: User-friendly toast notifications
-- **Error Handling**: Graceful error management
-- **LocalStorage Integration**: Remembers user preferences
-- **Browser Language Detection**: Auto-detects Hindi language preference
-- **Analytics Ready**: Track user interactions and page views
-
----
 
 ## 🚀 Technologies Used
 
@@ -150,61 +124,6 @@ portfolio-website/
 - **Time to Interactive**: <2s
 - **Total Page Size**: ~200KB
 
-### Mobile Optimization
-- ✅ Touch-friendly (44px minimum touch targets)
-- ✅ Viewport optimized
-- ✅ Fast tap response
-- ✅ No horizontal scroll
-
----
-
-## 🎯 Roadmap
-
-### Phase 1 - Enhancements ✅
-- [x] Bilingual support (English/Hindi)
-- [x] Mobile responsive design
-- [x] FAQ accordion
-- [x] Email validation
-- [x] Keyboard shortcuts
-
-### Phase 2 - Upcoming Features 🚧
-- [ ] Dark/Light theme toggle
-- [ ] Backend contact form integration (Email.js)
-- [ ] Project portfolio gallery with filters
-- [ ] Blog section
-- [ ] Skills progress bars with animations
-- [ ] Google Analytics integration
-
-### Phase 3 - Future Plans 💡
-- [ ] Add testimonials section
-- [ ] Implement search functionality
-- [ ] Multi-language support (add more languages)
-- [ ] PWA (Progressive Web App) features
-- [ ] Backend API for dynamic content
-
----
-
-## 📝 License
-
-This project is **MIT Licensed** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2025 Adithya Menashinakai
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
-
----
 
 ## 👤 Author
 
@@ -217,7 +136,7 @@ copies or substantial portions of the Software.
 ### 📬 Contact
 
 - **Email**: [adithya.ashok.menashinakai@gmail.com](mailto:adithya.ashok.menashinakai@gmail.com)
-- **LinkedIn**: [Adithya Menashinakai](https://www.linkedin.com/in/adithya-menashinakai-2656b7302)
+- **LinkedIn**: [Adithya Menashinakai](https://ww.linkedin.com/in/adithya-menashinakai-2656b7302)
 - **Phone**: [+91-9731572531](tel:+919731572531)
 - **Location**: [Dharwad, Karnataka](https://www.google.com/maps/search/?api=1&query=Dharwad,Karnataka,580001)
 
